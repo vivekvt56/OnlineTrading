@@ -1,0 +1,17 @@
+﻿#img3
+{
+    margin-left: 205px;
+    margin-right: 205px;
+    background-image: url('../../image/login/BG.jpg');
+}
+
+#acc3
+{
+    padding-left:10px;
+    padding-right:10px;
+    margin-left: 270px;
+    margin-right: 220px;
+    margin-bottom: 26px;
+    padding-bottom:10px;
+    background-color: #EFEFEF;
+}

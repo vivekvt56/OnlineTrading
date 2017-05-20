@@ -1,0 +1,11 @@
+﻿body {
+}
+#whypage
+{
+    background-image: url('../image/bg.PNG');
+    background-repeat: repeat;
+    padding: 0 0px;
+    width: 940px;
+    height: 370px;
+    margin-left: 213px;
+}

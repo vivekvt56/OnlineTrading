@@ -1,0 +1,26 @@
+﻿#Content4 #img #Image1
+{
+    margin-top:0px;
+    position:inherit;
+    z-index:5;
+    top: 229px;
+    left: 0px;
+}
+
+#img
+{
+    background-image: url('../../image/login/BG.jpg');
+    margin-left: 205px;
+    margin-right: 205px;
+}
+
+#Content4 #img #ImageButton1
+{
+    position:absolute;
+    z-index:-3;
+    top: 442px;
+    padding-left:100px;
+    left:168px;
+    height: 38px;
+    width: 114px;
+}

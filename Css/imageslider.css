@@ -1,0 +1,34 @@
+﻿#page1 div
+{
+    z-index: 4;
+    background-image: url('../image/bg.PNG');
+    padding: 0 0px;
+    width: 900px;
+    height: 297px;
+    background-repeat: repeat;
+}
+
+#page1 div.image
+{
+    position: absolute;
+    z-index:1;
+    padding-top: 20px;
+    padding-left: 20px;
+    top: 215px;
+    left: 201px;
+    width: 921px;
+    margin-left: 11px;
+    margin-right: 0px;
+    height: 312px;
+}
+
+#header #Label1
+{
+    padding-left: 280px;
+}
+
+
+#slidy-container { 
+  width: 70%; overflow: hidden; margin: 0 auto 0 0px;
+}
+

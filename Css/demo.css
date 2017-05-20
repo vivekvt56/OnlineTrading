@@ -1,0 +1,22 @@
+﻿body {
+}
+
+#demoacc
+{
+    background-image: url('../image/bg.PNG');
+    background-repeat: repeat;
+    margin-left: 205px;
+    margin-right: 0px;
+    width: 942px;
+    height: 331px;
+    margin-top: 0px;
+}
+#demoacc a
+{
+    text-decoration: none;
+    color: #0000FF;
+}
+#demoacc a:hover
+{
+    text-decoration: underline;
+}
